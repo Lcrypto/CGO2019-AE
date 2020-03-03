@@ -1,4 +1,4 @@
-# CGO 2019 AE: A Code Generator for High-Performance Tensor Contractions on GPUs
+# CGO 2019 AE: A Code Generator for High-Performance Tensor Contractions on GPUs http://web.cse.ohio-state.edu/presto/pubs/cgo19.pdf
 
 
 This document details the steps to reproduce the five figures in the experimental section (Figure 4, 5, 6, 7, and 8).  Figure 4 and Figure 5 compare the
